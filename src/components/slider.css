@@ -1,0 +1,24 @@
+.custom-dots {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+  }
+  
+  .custom-dots li {
+    display: inline-block;
+    margin: 0 5px;
+  }
+  
+  .custom-dots li button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    background-color: white; /* Change color here */
+  }
+  
+  .custom-dots li.slick-active button {
+    background-color: white; /* Change color here for active dot */
+    border: 10px solid black; /* Optional: add a border to the active dot */
+  }
+  

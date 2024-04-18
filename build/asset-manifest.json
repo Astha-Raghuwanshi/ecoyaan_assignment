@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecoyaan/static/css/main.0637db68.chunk.css",
+    "main.js": "/ecoyaan/static/js/main.d6de7a73.chunk.js",
+    "main.js.map": "/ecoyaan/static/js/main.d6de7a73.chunk.js.map",
+    "runtime-main.js": "/ecoyaan/static/js/runtime-main.37af4f70.js",
+    "runtime-main.js.map": "/ecoyaan/static/js/runtime-main.37af4f70.js.map",
+    "static/css/2.7c5dc056.chunk.css": "/ecoyaan/static/css/2.7c5dc056.chunk.css",
+    "static/js/2.21664f1b.chunk.js": "/ecoyaan/static/js/2.21664f1b.chunk.js",
+    "static/js/2.21664f1b.chunk.js.map": "/ecoyaan/static/js/2.21664f1b.chunk.js.map",
+    "index.html": "/ecoyaan/index.html",
+    "precache-manifest.40b21dd7172ffa433e37ecc49e6948dc.js": "/ecoyaan/precache-manifest.40b21dd7172ffa433e37ecc49e6948dc.js",
+    "service-worker.js": "/ecoyaan/service-worker.js",
+    "static/css/2.7c5dc056.chunk.css.map": "/ecoyaan/static/css/2.7c5dc056.chunk.css.map",
+    "static/css/main.0637db68.chunk.css.map": "/ecoyaan/static/css/main.0637db68.chunk.css.map",
+    "static/js/2.21664f1b.chunk.js.LICENSE.txt": "/ecoyaan/static/js/2.21664f1b.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/ecoyaan/static/media/pexels-alena-koval-886521.fa37179b.jpg",
+    "static/media/HeroSection3.css": "/ecoyaan/static/media/pexels-karolina-grabowska-4202926.fa01e82a.jpg",
+    "static/media/HeroSection2.css": "/ecoyaan/static/media/pexels-ready-made-3850512.2e738407.jpg",
+    "static/media/HeroSection.css": "/ecoyaan/static/media/pexels-scott-webb-305821.a0cc5537.jpg",
+    "static/media/slick-theme.css": "/ecoyaan/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37af4f70.js",
+    "static/css/2.7c5dc056.chunk.css",
+    "static/js/2.21664f1b.chunk.js",
+    "static/css/main.0637db68.chunk.css",
+    "static/js/main.d6de7a73.chunk.js"
+  ]
+}
