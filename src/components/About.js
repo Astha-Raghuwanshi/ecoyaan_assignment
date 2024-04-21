@@ -1,6 +1,5 @@
 import React from 'react';
 import './About.css';
-import Navbar from './Navbar.js';
 
 function About() {
 
@@ -8,10 +7,10 @@ function About() {
     <div>
     <div className='aboutt'>
       
-      <h4>Get to know EcoMatrix</h4>
+      <h4>Get to know Ecoyaan</h4>
      
       <p> 
-      At EcoMatrix, we are more than just a platform. Our goal is to build a community of eco-conscious people who share a common vision and passion for a more sustainable world.
+      At Ecoyaan, we are more than just a platform. Our goal is to build a community of eco-conscious people who share a common vision and passion for a more sustainable world.
       <br />
       <br />
 We recognize that sustainability is a journey (as the Sanskrit word “yaan” suggests). To keep you motivated on this journey, on our platform and our social media pages, you can find:

@@ -53,4 +53,18 @@
       margin-top: 0px;
       padding-right:6rem;
     }
+    .hero-container2 >h4{
+      padding-right:0rem;
+      margin-left: 5rem;
+      font-size: 40px;
+
+    }
+    .hero-container2 >p{
+      font-size: 1.5rem;
+      margin-left: 5rem;
+      margin-right: 0rem;
+
+      
+    }
+
   }
