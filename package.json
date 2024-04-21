@@ -2,7 +2,7 @@
   "name": "navbar-dropdown-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Astha-Raghuwanshi.github.io/ecoyaan",
+  "homepage": "https://Astha-Raghuwanshi.github.io/ecoMatrix_assignment",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
+    "vercel-install": "./vercel-submodule-workaround.sh && yarn --ignore-scripts --production=false",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

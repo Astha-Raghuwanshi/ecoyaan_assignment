@@ -4,8 +4,8 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 // import HomePage from './HomePage';
 import About from './About';
-// import ContactPage from './ContactPage';
 import HeroSection from './HeroSection';
+import Navbar from './Navbar';
 import HeroSection2 from './HeroSection2';
 import HeroSection3 from './HeroSection3';
 import './slider.css'; // Import your CSS file for slider styles

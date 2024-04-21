@@ -70,5 +70,12 @@
     .btn {
       width: 100%;
     }
-  }
+    @media screen and (max-width: 500px) {
+      .hero-container3 {
+        background: url('pexels-karolina-grabowska-4202926.jpg') center center/cover;
+        font-size: 40px;
+        margin-top: 0px;
+        padding-right:4rem;
+      }
+    }}
   

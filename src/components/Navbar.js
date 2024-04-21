@@ -28,10 +28,11 @@ function Navbar() {
 
   return (
     <>
+
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={<HeroSection />}>
-            Ecoyaan
+            EcoMatrix
             {/* <i class='fab fa-typo3' /> */}
           </Link>
           <div className='menu-icon' onClick={handleClick}>
@@ -45,10 +46,10 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/About'
+                to='/about'
                 className='nav-links'
               >
-                About Us
+                About
               </Link>
             </li>
             <li className='nav-item'>
@@ -66,7 +67,8 @@ function Navbar() {
                 to='/'
                 className='nav-links'
               >
-                Sign Up
+                
+                Login
               </Link>
             </li>
           </ul>

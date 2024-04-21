@@ -19,7 +19,7 @@ const Button = ({
 
   return (
 
-    <button className={`btn ${checkButtonStyle} ${checkButtonSize}`} onClick={()=>navigate("/About")} >
+    <button className={`btn ${checkButtonStyle} ${checkButtonSize}`} onClick={()=>navigate("/about")} >
         {children}
       </button>
   );
